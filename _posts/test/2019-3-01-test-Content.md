@@ -19,8 +19,7 @@ category: test
 </div>{: .text-center }  
   
 <div>
-  <img src="http://mblogthumb2.phinf.naver.net/20150427_261/ninevincent_1430122791768m7oO1_JPEG/kakao_1.jpg?type=w2" width="50" height="50" />
-  익명의 4기 멋사
+  익명의 4/5/6기 멋사 or 이성준<img src="http://mblogthumb2.phinf.naver.net/20150427_261/ninevincent_1430122791768m7oO1_JPEG/kakao_1.jpg?type=w2" width="50" height="50" />
 </div>{: .text-right }  
 
 
