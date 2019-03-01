@@ -6,34 +6,31 @@ category: test
 
 테스트 중입니다. 
 
-<div><img src="{{ site.avatar }}" width="50" height="50" />
-내용입니다.</div>{: .text-left }   
+<div>
+  <img src="{{ site.avatar }}" width="50" height="50" />  
+  멋쟁이 사자처럼
+</div>{: .text-left }   
   
-<div><img src="{{ site.avatar }}" width="50" height="50" />
-내용입니다.</div>{: .text-center }  
+<div>
+    Q. 첫번째 질문 입니다. 
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+</div>{: .text-center }  
   
-<div><img src="{{ site.avatar }}" width="50" height="50" />
-내용입니다.</div>{: .text-right }  
+<div>
+  <img src="http://mblogthumb2.phinf.naver.net/20150427_261/ninevincent_1430122791768m7oO1_JPEG/kakao_1.jpg?type=w2" width="50" height="50" />
+  익명의 4기 멋사
+</div>{: .text-right }  
 
 
-테스트 중입니다.  
-
-
-<div><img src="{{ site.avatar }}" width="50" height="50" />{: .alignleft }
-내용입니다.</div>{: .text-left }   
-  
-<div><img src="{{ site.avatar }}" width="50" height="50" />{: .aligncenter }
-내용입니다.</div>{: .text-center }  
-  
-<div><img src="{{ site.avatar }}" width="50" height="50" />{: .alignright }
-내용입니다.</div>{: .text-right }  
-
-
-
-
-  
-  
-
+<div>
+    A. 첫번째 답변 입니다. 
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
+</div>{: .text-center }  
+ 
 <style>
 img.alignleft{float:left} 
 img.alignright{float:right} 
