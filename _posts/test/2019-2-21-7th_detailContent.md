@@ -4,6 +4,8 @@ title: 7기 모집 세부사항
 category: test
 ---
 
+모집 
+
 한국외국어대학교 글로벌캠퍼스 멋쟁이사자처럼 지원에 대한 세부 사항입니다.  
 이 밖의 문의사항이 있으시면 언제든지 [페이스북](https://web.facebook.com/likelionhufs/?ref=bookmarks)과 카톡 플러스친구(@멋사외대글캠)로 문의주시기 바랍니다!!
   
