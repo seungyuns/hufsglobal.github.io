@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7기 모집 세부사항
+title: 후기 포스팅
 category: test
 ---
 
@@ -13,10 +13,9 @@ category: test
   
 <div>
     Q. 첫번째 질문 입니다. 
-  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
-  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
-  글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
 </div>{: .text-center }  
+  
+  
   
 <div>
   익명의 4/5/6기 멋사 or 이성준<img src="http://mblogthumb2.phinf.naver.net/20150427_261/ninevincent_1430122791768m7oO1_JPEG/kakao_1.jpg?type=w2" width="50" height="50" />
@@ -24,7 +23,8 @@ category: test
 
 
 <div>
-    A. 첫번째 답변 입니다. 
+    A. 첫번째 답변 입니다.  
+  
   글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
   글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
   글을 적어주세요 글을 적어주세요 글을 적어주세요 글을 적어주세요
