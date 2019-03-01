@@ -6,26 +6,20 @@ category: test
 
 테스트 중입니다. 
 
-<img src="{{ site.avatar }}" width="50" height="50" />   
-Q. 첫번째 질문 입니다.     
-
-내용입니다.{: .text-center }
-
-<right><img src="{{ site.avatar }}" width="50" height="50" />  
-A. 첫번째 답변 입니다.<right>  
-
-A. 첫번째 답변 입니다.
-{: .text-right }  
-<img src="{{ site.avatar }}" width="50" height="50" />
-{: .text-right }  
+<img src="{{ site.avatar }}" width="50" height="50" />{: .alignleft }
   
+<img src="{{ site.avatar }}" width="50" height="50" />{: .aligncenter }
   
+<img src="{{ site.avatar }}" width="50" height="50" />{: .alignright }
   
-내용입니다.
-{: .text-left }  
+내용입니다.{: .alignleft }  
+  
+내용입니다.{: .aligncenter }  
+  
+내용입니다.{: .alignright }  
 
-내용입니다.
-{: .text-center }  
-
-내용입니다.
-{: .text-right }  
+<style>
+img.alignleft{float:left} 
+img.alignright{float:right} 
+img.aligncenter{display:block;margin:0 auto}
+</style>
