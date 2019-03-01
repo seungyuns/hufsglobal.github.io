@@ -55,3 +55,15 @@ B회사(SI업체)에서 퍼블리시겸 자바 개발자로 근무하는 G사자
 멋사를 하면서 좋았던것은 대부분이 비전공자이다 보니 아주 기본부터 같이 공부했다는점 이었어요. 아주 기본인 html 부터 시작해서 css js ruby aws 까지 순차적으로 진행을 하니까 이해도 쉽고 재미있더라고요.  
 특히 저희 학교 홈페이지를 직접 만들고 aws올려 배포도 하고 축제 홈페이지를 만들어 호보도 하면 실제로 서비스를 해본 경험은 정말 좋았던거 같아요.  
 제가 들어간 회사 면접 볼때도 많이 좋게 봐주시기도 했고 제 실력을 높이는데도 많은 도움을 받았어요. 멋사 덕분에 웹에 기본부터 벽돌 쌓듯이 차근차근 공부할수 있었고, 아직 미숙하지만 웹 개발자가 되는데 많은 도움을 받을 수 있었습니다. 
+
+
+* * *
+
+![이전기수후기모음](https://user-images.githubusercontent.com/37537330/53645770-f117f080-3c7c-11e9-9dd6-85549e828f3c.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645776-f4ab7780-3c7c-11e9-9236-ed0e1f4562d7.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645782-f70dd180-3c7c-11e9-884c-321eb9570b97.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645786-f9702b80-3c7c-11e9-9866-fdc2894142e8.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645791-fc6b1c00-3c7c-11e9-85f2-cdc9e34d6617.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645794-ff660c80-3c7c-11e9-8305-18eff7c0e663.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645797-01c86680-3c7d-11e9-9fb1-cbe2295ae225.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53645831-1a388100-3c7d-11e9-93ad-baeb61b2055e.png)
