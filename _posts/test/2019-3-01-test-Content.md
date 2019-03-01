@@ -14,15 +14,15 @@ category: test
 
 
 
-내용입니다.{: .text-left }  
+<div>내용입니다.</div>{: .text-left }  
   
-내용입니다.{: .text-center }  
+<div>내용입니다.</div>{: .text-center }  
   
-내용입니다.{: .text-right }  
+<div>내용입니다.</div>{: .text-right }  
 
 <style>
-img.alignleft{float:left} 
-img.alignright{float:right} 
+img.alignleft{float:left,display: block;} 
+img.alignright{float:right,display: block;} 
 img.aligncenter{display:block;margin:0 auto}
   
 .text-left{text-align:left}
