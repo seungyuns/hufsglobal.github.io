@@ -22,14 +22,6 @@ category: test
 </html>
 ~~~
 
-<code>
-  <!DOCTYPE html>
-  <html lang="ko"> 
-
-
-  </html>
-</code>
-
 ```html
 <!DOCTYPE html>
 <html lang="ko"> 
