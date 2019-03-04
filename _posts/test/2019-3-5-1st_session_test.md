@@ -47,8 +47,9 @@ category: test
 
 ***
 ## 프로젝트를 만들 폴더 생성하기
-
-`mkdir basic`
+{% highlight html %}
+$ mkdir basic
+{% endhighlight %}
 
 ## index.html 파일 만들기
 ***
@@ -115,8 +116,6 @@ category: test
 {% endhighlight %}
 -> 사용자들로부터 입력받은 태그들을 전송받을 대상에게 action으로 전송합니다.  
   
-![20](https://user-images.githubusercontent.com/37537330/53731086-0a0ee480-3ebd-11e9-93b1-73cd63117ba3.png)
-
 ## img 태그 - 이미지를 첨부하는 태그
 {% highlight html %}
 <img src=".jpg" width=100>
@@ -158,8 +157,6 @@ category: test
 
 # css
 ***
-![17](https://user-images.githubusercontent.com/37537330/53728501-3f640400-3eb6-11e9-80d6-5bf5f304dcb1.png)
-
 ## css inline style sheet
 {% highlight html %}
 <h2 style = "color:blue">멋쟁이 사자가 되고 싶어요! </h2>
