@@ -14,7 +14,7 @@ category: test
 </html>
 {% endhighlight %}
 
-~~~html
+~~~
 <!DOCTYPE html>
 <html lang="ko"> 
 
@@ -22,7 +22,7 @@ category: test
 </html>
 ~~~
 
-```html
+```
 <!DOCTYPE html>
 <html lang="ko"> 
 
