@@ -91,8 +91,8 @@ $ mkdir basic
 {% endhighlight %}
   
 - 기본적인 틀을 만들어주는 단축키
-***
-
+  
+* * *
 ## 이 body 태그 안 부분을 여러 태그들로 한 번 꾸며볼까요?
 ## h1 태그 - 중요 제목을 나타내는 태그
 {% highlight html %}
