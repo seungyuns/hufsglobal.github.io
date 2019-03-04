@@ -156,7 +156,7 @@ $ mkdir basic
   
 
 # css
-***
+* * *
 ## css inline style sheet
 {% highlight html %}
 <h2 style = "color:blue">멋쟁이 사자가 되고 싶어요! </h2>
@@ -191,5 +191,6 @@ style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기
   
 # ppt 참고하기
 * * *
-[1주차 세션 ppt ](https://github.com/16LeeSeul/7-/files/2928000/1st_session.pdf)  
+[1주차 세션 ppt](https://github.com/16LeeSeul/7-/files/2928021/1st_session.pdf)
+
   
