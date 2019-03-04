@@ -61,7 +61,7 @@ $ mkdir basic
 
 </html>
 {% endhighlight %}
--> "ko" 는 한글로 되어 있다고 알려줌!  
+- "ko" 는 한글로 되어 있다고 알려줌!  
 
 ## 화면에 직접 드러나지 않지만 문서를 설명해주는 태그
 {% highlight html %}
@@ -70,9 +70,9 @@ $ mkdir basic
   <title> html이 뭘까?</title> 
 </head>
 {% endhighlight %}
--> html 태그 안에 적어줍니다.  
--> "utf-8"은 인코딩 방식을 알려줍니다.  
--> title 태그는 문서에 드러나지 않지만 한마디로 페이지를 설명해주는 태그입니다!  
+- html 태그 안에 적어줍니다.  
+- "utf-8"은 인코딩 방식을 알려줍니다.  
+- title 태그는 문서에 드러나지 않지만 한마디로 페이지를 설명해주는 태그입니다!  
 어떻게 설명해주는 지 코드를 실행했을 때를 살펴보세요!  
 
 
@@ -82,15 +82,15 @@ $ mkdir basic
 이게 보일까요?!
 </body>
 {% endhighlight %}
--> a, img, h1, li 등등 여러가지 태그들이 있습니다.  
--> html은 정형화된 문법으로 반복적으로 사용되기 때문에 태그들을 익혀두면 사용하기 쉽습니다.  
+- a, img, h1, li 등등 여러가지 태그들이 있습니다.  
+- html은 정형화된 문법으로 반복적으로 사용되기 때문에 태그들을 익혀두면 사용하기 쉽습니다.  
 
 ## 기본 틀을 만들어주는 단축키
 {% highlight html %}
 !+tab
 {% endhighlight %}
   
--> 기본적인 틀을 만들어주는 단축키
+- 기본적인 틀을 만들어주는 단축키
 ***
 ## 이 body 태그 안 부분을 여러 태그들로 한 번 꾸며볼까요?
 ## h1 태그 - 중요 제목을 나타내는 태그
@@ -101,9 +101,9 @@ $ mkdir basic
 띄어쓰기가 언제 될까요?<br>
 이제 될까요?! </p>
 {% endhighlight %}
--> h1 ~ h6 까지 있으며, 숫자가 작은 순서대로 더 중요한 제목을 나타냅니다.  
--> 일반 단락을 나타내는 태그는 p 태그입니다.  
--> br 은 단락 바꿈을 해주는 태그입니다.  
+- h1 ~ h6 까지 있으며, 숫자가 작은 순서대로 더 중요한 제목을 나타냅니다.  
+- 일반 단락을 나타내는 태그는 p 태그입니다.  
+- br 은 단락 바꿈을 해주는 태그입니다.  
   
 ## form 태그 - 입력값을 받아들이는 태그
 {% highlight html %}
@@ -113,14 +113,14 @@ $ mkdir basic
     <input type="submit">
 </form>
 {% endhighlight %}
--> 사용자들로부터 입력받은 태그들을 전송받을 대상에게 action으로 전송합니다.  
+- 사용자들로부터 입력받은 태그들을 전송받을 대상에게 action으로 전송합니다.  
   
 ## img 태그 - 이미지를 첨부하는 태그
 {% highlight html %}
 <img src=".jpg" width=100>
 {% endhighlight %}
   
--> 이미지를 첨부하는 태그로 높이나 너비를 조절할 수 있습니다.
+- 이미지를 첨부하는 태그로 높이나 너비를 조절할 수 있습니다.
 
 ## ol 태그 - 순서가 있는 리스트를 만들어주는 태그
 {% highlight html %}
@@ -131,9 +131,9 @@ $ mkdir basic
   <li>4학년</li>
  </ol>
 {% endhighlight %}
--> ordered list 태그 : 순서가 있는 리스트들을 만들어 줍니다.  
--> li 태그 : 리스트 항목들을 적어줍니다.  
--> 단축키 : ol>li*개수 + tab  
+- ordered list 태그 : 순서가 있는 리스트들을 만들어 줍니다.  
+- li 태그 : 리스트 항목들을 적어줍니다.  
+- 단축키 : ol>li*개수 + tab  
 
 ## ul 태그 - 순서가 없는 리스트를 만들어주는 태그
 {% highlight html %}
@@ -142,15 +142,15 @@ $ mkdir basic
   <li>겨울 계절학기</li>
 </ul>
 {% endhighlight %}
--> unordered list 태그 : 순서가 없는 리스트들을 만들어 줍니다.  
--> li 태그 : 리스트 항목들을 적어줍니다.  
--> 단축키 : ul>li*개수 + tab  
+- unordered list 태그 : 순서가 없는 리스트들을 만들어 줍니다.  
+- li 태그 : 리스트 항목들을 적어줍니다.  
+- 단축키 : ul>li*개수 + tab  
 
 ## a 태그 - 링크를 걸어주는 태그
 {% highlight html %}
 <a href="1.html">1학년</a>
 {% endhighlight %}
--> 링크를 걸어주는 태그입니다.  
+- 링크를 걸어주는 태그입니다.  
   
   
 
@@ -161,7 +161,7 @@ $ mkdir basic
 <h2 style = "color:blue">멋쟁이 사자가 되고 싶어요! </h2>
 {% endhighlight %}
 
--> 직접 html 태그의 style 속성에 CSS 코드를 넣어 적용시키는 방법입니다.  
+- 직접 html 태그의 style 속성에 CSS 코드를 넣어 적용시키는 방법입니다.  
 처음 적용시킬 때는 편하지만, 후에 복잡한 프로젝트를 할 때 꾸미는 데에 한계가 있으며 재사용이 불가능합니다.
 
 ## css internal style sheet
@@ -172,7 +172,7 @@ $ mkdir basic
   }
 </style>
 {% endhighlight %}
--> html 문서 안에 스타일 코드를 넣는 방법입니다.  
+- html 문서 안에 스타일 코드를 넣는 방법입니다.  
 style 태그 안에 CSS 코드를 넣습니다. 보통 head 태그 안에 넣으나 어디에 넣어도 잘 적용이 됩니다.  
 하지만, 서로 다른 html 문서에 적용할 수 없다는 단점이 있습니다.
 
@@ -184,7 +184,7 @@ color: yellow;
 
 <link rel="stylesheet" href="style.css">
 {% endhighlight %}
--> 별도의 CSS 파일을 만들고 html 문서와 연결하는 방법입니다.  
+- 별도의 CSS 파일을 만들고 html 문서와 연결하는 방법입니다.  
 style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기 때문에 여러 html 문서에 적용시킬 수 있다는 장점이 있습니다.  
 
 
