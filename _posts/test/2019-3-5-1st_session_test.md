@@ -75,7 +75,6 @@ $ mkdir basic
 -> title 태그는 문서에 드러나지 않지만 한마디로 페이지를 설명해주는 태그입니다!  
 어떻게 설명해주는 지 코드를 실행했을 때를 살펴보세요!  
 
-![18](https://user-images.githubusercontent.com/37537330/53730102-468d1100-3eba-11e9-885e-911a6fdf06fd.png)  
 
 ## 화면에 직접적으로 등장하는 태그
 {% highlight html %}
@@ -186,4 +185,9 @@ color: yellow;
 <link rel="stylesheet" href="style.css">
 {% endhighlight %}
 -> 별도의 CSS 파일을 만들고 html 문서와 연결하는 방법입니다.  
-style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기 때문에 여러 html 문서에 적용시킬 수 있다는 장점이 있습니다.
+style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기 때문에 여러 html 문서에 적용시킬 수 있다는 장점이 있습니다.  
+
+
+# ppt 참고하기
+* * *
+[1주차 세션 ppt ](https://github.com/16LeeSeul/7-/files/2928000/1st_session.pdf)
