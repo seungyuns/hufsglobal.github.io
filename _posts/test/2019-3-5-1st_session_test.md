@@ -187,6 +187,6 @@ style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기
   
 
 # ppt 참고하
-[1주차 세션 ppt ](https://github.com/16LeeSeul/7-/files/2928021/1st_session.pdf)
+[1주차 세션 ppt 다운](https://github.com/16LeeSeul/7-/files/2928021/1st_session.pdf)
 
   
