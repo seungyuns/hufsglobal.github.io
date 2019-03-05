@@ -185,9 +185,8 @@ color: yellow;
 - 별도의 CSS 파일을 만들고 html 문서와 연결하는 방법입니다.  
 style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기 때문에 여러 html 문서에 적용시킬 수 있다는 장점이 있습니다.  
   
-  
-# ppt 참고하기
 * * *
+# ppt 참고하기
 [1주차 세션 ppt](https://github.com/16LeeSeul/7-/files/2928021/1st_session.pdf)
 
   
