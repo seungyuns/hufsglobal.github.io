@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 1. 웹개론과 html
-category: test
+category: session
 ---
 세션 1 - prod. 이슬
 
-## 웹 개론
+# 웹 개론
+
 ### 웹 서비스란?
 - **서비스** : 고객이 요청을 하여, 그에 맞는 응답을 제공하는 것!  
 - 웹 서비스 또한, 서비스와 같습니다.  
@@ -36,12 +37,13 @@ category: test
 - 유용한 도구들이 많은 **크롬**을 사용하는 것을 추천합니다.  
   
 
-## html 실습
+# html 실습
 ### html 구성
 - html은 크게 글, 태그, 속성 세 가지로 구성됩니다.  
 - **글** : 전달하고자 하는 내용입니다.  
 - **태그** : 의미를 지어주기 위해 붙이는 식별자  
 - **속성** : 태그에 적용되는 효과, 구체적 표현 정보  
+
 
 ### 프로젝트를 만들 폴더 생성하기
 {% highlight html %}
@@ -49,7 +51,7 @@ $ mkdir basic
 {% endhighlight %}
 
 ### index.html 파일 만들기
-## html로 작성되 문서입니다! 라고 알려주는 태그
+### html로 작성된 문서입니다! 라고 알려주는 태그
 {% highlight html %}
 <!DOCTYPE html>
 <html lang="ko"> 
@@ -87,6 +89,7 @@ $ mkdir basic
 {% endhighlight %}
   
 - 기본적인 틀을 만들어주는 단축키
+
 
 ### 이 body 태그 안 부분을 여러 태그들로 한 번 꾸며볼까요?
 ### h1 태그 - 중요 제목을 나타내는 태그
@@ -150,8 +153,7 @@ $ mkdir basic
   
   
 
-## css
-* * *
+# css
 ### css inline style sheet
 {% highlight html %}
 <h2 style = "color:blue">멋쟁이 사자가 되고 싶어요! </h2>
@@ -184,7 +186,8 @@ color: yellow;
 style.css를 적용시키고 싶은 html 문서에 링크만 걸어주면 되기 때문에 여러 html 문서에 적용시킬 수 있다는 장점이 있습니다.  
   
   
-## ppt 참고하기
+# ppt 참고하기
+* * *
 [1주차 세션 ppt](https://github.com/16LeeSeul/7-/files/2928021/1st_session.pdf)
 
   
