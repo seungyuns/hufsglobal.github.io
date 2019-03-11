@@ -439,9 +439,9 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" 
-	data-toggle="collapse" data-target="#navbarSupportedContent"
-	aria-controls="navbarSupportedContent" aria-expanded="false"
-	aria-label="Toggle navigation">
+  data-toggle="collapse" data-target="#navbarSupportedContent"
+  aria-controls="navbarSupportedContent" aria-expanded="false"
+  aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -455,17 +455,16 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" 
-	   id="navbarDropdown" role="button" data-toggle="dropdown" 
-	   aria-haspopup="true" 
-	   aria-expanded="false">
+	id="navbarDropdown" role="button" data-toggle="dropdown" 
+	aria-haspopup="true" aria-expanded="false">
           Dropdown
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	<a class="dropdown-item" href="#">Action</a>
+	<a class="dropdown-item" href="#">Another action</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="#">Something else here</a>
+      </div>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="#" tabindex="-1" 
@@ -536,7 +535,7 @@ Documentation - Components - card
     <h5 class="card-title">Card title</h5>
     <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
     <p class="card-text">Some quick example text to build on the 
-	    card title and make up the bulk of the card's content.</p>
+    card title and make up the bulk of the card's content.</p>
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
   </div>
@@ -564,8 +563,8 @@ card-link부분에 링크를 걸 수 있습니다.
 <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card 
-	    title and make up the bulk of the card's content.</p>
+   <p class="card-text">Some quick example text to build on the
+	card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 {% endhighlight %}
@@ -610,7 +609,7 @@ One of three colums부분에
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
         <p class="card-text">Some quick example text to build on 
-		the card title and make up the bulk of the card's content.</p>
+	the card title and make up the bulk of the card's content.</p>
         </div>
         </div>
         </div>
@@ -619,7 +618,7 @@ One of three colums부분에
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
         <p class="card-text">Some quick example text to build on the card 
-		title and make up the bulk of the card's content.</p>
+	title and make up the bulk of the card's content.</p>
         </div>
         </div>
         </div>
@@ -627,8 +626,9 @@ One of three colums부분에
         <div class="card" style="width: 18rem;">
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-        <p class="card-text">Some quick example text to build on the card 
-		title and make up the bulk of the card's content.</p>
+        <p class="card-text">Some quick example text to build on
+	the card title and make up the bulk of the card's content.
+	</p>
         </div>
       </div>
    </div>
@@ -643,20 +643,22 @@ Documentation - Components - form
 {% highlight html %}
 <form>
   <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" 
-	   aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never 
-	    share your email with anyone else.</small>
+  <label for="exampleInputEmail1">Email address</label>
+  <input type="email" class="form-control" id="exampleInputEmail1" 
+	 aria-describedby="emailHelp" placeholder="Enter email">
+  <small id="emailHelp" class="form-text text-muted">We'll never 
+	 share your email with anyone else.</small>
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" 
-	   placeholder="Password">
+    <input type="password" class="form-control" 
+	id="exampleInputPassword1" placeholder="Password">
   </div>
   <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    <input type="checkbox" class="form-check-input" id="example
+    Check1">
+    <label class="form-check-label" for="exampleCheck1">
+    Check me out</label>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
