@@ -686,4 +686,5 @@ git 명령어에 대한 설명은 세션 ppt참고!
 
  # PPT참고
 
-[세션3_PPT다운] (https://github.com/hyojin17/session3_folder/files/2949466/3.pdf)
+[세션3.pdf](https://github.com/hyojin17/session3_folder/files/2951548/3.pdf)
+
