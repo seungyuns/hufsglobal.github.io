@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 파이썬 기본문법, 부트스트랩 사용하기, 깃헙페이지 만들기
-category: session # 본인에게 맞는 카테고리명을 적으세요
+category: test
 ---
 세션 3 - prod. 최효진
 
