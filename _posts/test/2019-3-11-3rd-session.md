@@ -681,7 +681,6 @@ git 명령어에 대한 설명은 세션 ppt참고!
 ### 3. git push가 완료 되면, 자신의 레포지토리로 돌아가, 생성했던 레포지토리이름(깃헙닉네임.github.io)를 url에 입력해본다.
 만들었던 화면과 같으면 성공!
 
-
 # PPT참고
 
 [세션3.pdf](https://github.com/hyojin17/session3_folder/files/2951548/3.pdf)
