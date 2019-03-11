@@ -529,7 +529,8 @@ card-link부분에 링크를 걸 수 있습니다.
 {% endhighlight %}
 
 #### card2
-이미지를 넣을 수 있는 카드 부트스트랩을 넣어보겠습니다.
+
+이미지를 넣을 수 있는 카드 부트스트랩
 {% highlight html %}
 
 <div class="card" style="width: 18rem;">
@@ -604,6 +605,7 @@ One of three colums부분에
 
 ### 3.4 form
 Documentation - Components - form
+
 이메일과 패스워드를 입력하는 폼
 
 {% highlight html %}
