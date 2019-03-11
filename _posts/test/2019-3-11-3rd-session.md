@@ -413,15 +413,19 @@ $ python practice.py
 {% highlight html %}
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/
 bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0i
-XCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"  crossorigin="anonymous">
+XCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"  
+crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
-integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4Y
+fRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/
 1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJ
-ty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+ty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin=
+"anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1
 /js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAY
-oIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+oIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+</script>
 {% endhighlight %}
 
 ## 3. 부트스트랩 코드 활용하기
@@ -434,19 +438,25 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
 {% highlight html %}
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse"
+	  data-target="#navbarSupportedContent" aria-controls=
+	  "navbarSupportedContent" aria-expanded="false" aria-label=
+	  "Toggle navigation">
   <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)
+		</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" 
+	   role="button" data-toggle="dropdown" aria-haspopup="true" 
+	   aria-expanded="false">
           Dropdown
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -457,12 +467,15 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        <a class="nav-link disabled" href="#" tabindex="-1" 
+	   aria-disabled="true">Disabled</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" 
+	     aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
+	      Search</button>
     </form>
   </div>
 </nav>
@@ -473,7 +486,8 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
 
 #### navbar 색깔 바꾸기1
 
-navbar페이지 하단의 color schemes(https://getbootstrap.com/docs/4.3/components/navbar/#color-schemes)
+navbar페이지 하단의 color schemes
+(https://getbootstrap.com/docs/4.3/components/navbar/#color-schemes)
 
 >**Color schemes**<br>
 Theming the navbar has never been easier thanks to the combination of theming classes and background-color utilities. Choose from .navbar-light for use with light background colors, or .navbar-dark for dark background colors. Then, customize with .bg-*utilities.
@@ -488,7 +502,8 @@ Theming the navbar has never been easier thanks to the combination of theming cl
 #### navbar 색깔 바꾸기2
 inline css를 써서 부트스트랩에 나와있지 않은 다른 색깔로 바꾸기
 {% highlight html %}
-<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#73A8D1;">
+<nav class="navbar navbar-expand-lg navbar-dark" 
+style="background-color:#73A8D1;">
 {% endhighlight %}
 bg-primary부분을 지우고, 대신 style속성에 backgrond-color를 넣어준다.
 
@@ -499,10 +514,14 @@ Documentation - Components - jumbotron
 {% highlight html %}
 <div class="jumbotron">
 	<h1 class="display-4">Hello, world!</h1>
-	<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+	<p class="lead">This is a simple hero unit, a simple 
+	jumbotron-style component for calling extra attention 
+	to featured content or information.</p>
 	<hr class="my-4">
-	<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+	<p>It uses utility classes for typography and spacing 
+		to space content out within the larger container.</p>
+	<a class="btn btn-primary btn-lg" href="#" role="button">
+		Learn more</a>
 </div>
 {% endhighlight %}
 
@@ -515,7 +534,8 @@ Documentation - Components - card
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Some quick example text to build on the 
+	    card title and make up the bulk of the card's content.</p>
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
   </div>
@@ -543,7 +563,8 @@ card-link부분에 링크를 걸 수 있습니다.
 <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Some quick example text to build on the card 
+	    title and make up the bulk of the card's content.</p>
   </div>
 </div>
 {% endhighlight %}
@@ -587,7 +608,8 @@ One of three colums부분에
     <div class="card" style="width: 18rem;">
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Some quick example text to build on 
+		the card title and make up the bulk of the card's content.</p>
         </div>
         </div>
         </div>
@@ -595,7 +617,8 @@ One of three colums부분에
         <div class="card" style="width: 18rem;">
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Some quick example text to build on the card 
+		title and make up the bulk of the card's content.</p>
         </div>
         </div>
         </div>
@@ -603,7 +626,8 @@ One of three colums부분에
         <div class="card" style="width: 18rem;">
         <img src="image1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Some quick example text to build on the card 
+		title and make up the bulk of the card's content.</p>
         </div>
       </div>
    </div>
@@ -619,12 +643,15 @@ Documentation - Components - form
 <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <input type="email" class="form-control" id="exampleInputEmail1" 
+	   aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">We'll never 
+	    share your email with anyone else.</small>
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <input type="password" class="form-control" id="exampleInputPassword1" 
+	   placeholder="Password">
   </div>
   <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
