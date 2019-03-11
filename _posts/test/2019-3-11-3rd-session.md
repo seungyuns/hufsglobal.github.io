@@ -469,9 +469,9 @@ body태그 안에 다음 코드를 넣어줍니다.<br>
 navbar페이지 하단의 color schemes(https://getbootstrap.com/docs/4.3/components/navbar/#color-schemes)
 
 >**Color schemes**<br>
-
 Theming the navbar has never been easier thanks to the combination of theming classes and background-color utilities. Choose from .navbar-light for use with light background colors, or .navbar-dark for dark background colors. Then, customize with .bg-*utilities.
 <br>따라서, 다음과 같이 고치면 내부바 색깔이 파란색으로 변경된다.
+
 
 {% highlight html %}
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
