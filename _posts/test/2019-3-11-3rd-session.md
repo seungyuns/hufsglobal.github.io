@@ -685,4 +685,4 @@ git 명령어에 대한 설명은 세션 ppt참고!
 
  # PPT참고
 
- ![세션3_PPT다운] (https://github.com/hyojin17/session3_folder/issues/2#issue-419182452)
+ ![세션3_PPT다운] (https://github.com/hyojin17/session3_folder/files/2949466/3.pdf)
