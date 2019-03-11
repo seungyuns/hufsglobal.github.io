@@ -682,9 +682,7 @@ git 명령어에 대한 설명은 세션 ppt참고!
 만들었던 화면과 같으면 성공!
 
 
-
-
- # PPT참고
+# PPT참고
 
 [세션3.pdf](https://github.com/hyojin17/session3_folder/files/2951548/3.pdf)
 
