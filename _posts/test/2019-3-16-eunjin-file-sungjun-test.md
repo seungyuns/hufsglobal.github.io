@@ -126,9 +126,11 @@ ___
 ---
 ***
 ___
-## 3. Customizing for Bootstrap templates
+
+## 3. Customizing for Bootstrap templates  
 
 ### 1. Bootstrap templates 이용법
+  
 1. https://startbootstrap.com/를 들어가서 원하는 template을 고른 후 다운로드한다.
 2. 내용물 전체를 복사해서 만들어둔 app에 static이라는 폴더를 만들고 그 안에 붙여 넣는다.
 3. 내용물 중 index.html를 잘라내서 App의 templates폴더에 app의 이름으로 폴더를 하나 더 만들고, 그 안에 이 index.html을 넣는다.
